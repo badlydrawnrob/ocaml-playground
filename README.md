@@ -4,7 +4,7 @@
 > 2. If it's overly academic (more so than HTDP[^1]) it's probably not for me.
 > 3. Try and quickly split out the stuff that's transferable and save it some how.
 
-Ideally zip through the book and see if there's examples that can be mimicked with Elm. If it's like Haskell, with a lot of intracacies and quirks, it might not be worth getting through. I need to remind myself I'm not interested in learning programming at a deep level, I just want to build prototypes and small programs.
+Initial setup is a bit harder than Purescript and A LOT harder than Elm Lang (we're talking binaries and a package manager). Ideally zip through the book and see if there's examples that can be mimicked with Elm. If it's like Haskell, with a lot of intracacies and quirks, it might not be worth getting through. I need to remind myself I'm not interested in learning programming at a deep level, I just want to build prototypes and small programs.
 
 ## My basic goal(s)
 
