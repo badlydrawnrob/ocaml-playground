@@ -15,7 +15,7 @@ Ideally zip through the book and see if there's examples that can be mimicked wi
 5. To make enough money to make good art.
 6. To potentially make code as art with a book.
 
-I'm not interested in:
+## I'm not interested in:
 
 - Re-learning recursion (unless it's simple stuff).
 - Deep level knowledge like writing `.map` functions from scratch.
